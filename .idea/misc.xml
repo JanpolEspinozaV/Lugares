@@ -7,6 +7,9 @@
         <entry key="..\:/Universidad/Android/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Universidad/Android/app/src/main/res/layout/activity_principal.xml" value="0.24739583333333334" />
         <entry key="..\:/Universidad/Android/app/src/main/res/layout/content_principal.xml" value="0.358695652173913" />
+        <entry key="..\:/Universidad/Android/app/src/main/res/layout/fragment_add_lugar.xml" value="0.34692028985507245" />
+        <entry key="..\:/Universidad/Android/app/src/main/res/layout/fragment_lugar.xml" value="0.34692028985507245" />
+        <entry key="..\:/Universidad/Android/app/src/main/res/layout/lugar_fila.xml" value="0.34692028985507245" />
         <entry key="..\:/Universidad/Android/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
         <entry key="..\:/Universidad/Android/app/src/main/res/menu/principal.xml" value="0.36666666666666664" />
       </map>
