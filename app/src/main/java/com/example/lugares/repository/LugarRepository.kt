@@ -4,7 +4,7 @@ import androidx.lifecycle.LiveData
 import com.example.lugares.adapter.LugarDao
 import com.example.lugares.model.Lugar
 
-class LugarRepositorio(private val lugarDao: LugarDao) {
+class LugarRepository(private val lugarDao: LugarDao) {
     val getAllData : LiveData<List<Lugar>> = lugarDao.getAllData()
 
     suspend fun addLugar(lugar:Lugar){

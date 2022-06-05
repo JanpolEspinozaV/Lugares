@@ -22,4 +22,9 @@
         android:name="com.example.lugares.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/addLugarFragment"
+        android:name="com.example.lugares.AddLugarFragment"
+        android:label="fragment_add_lugar"
+        tools:layout="@layout/fragment_add_lugar" />
 </navigation>
